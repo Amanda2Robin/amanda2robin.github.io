@@ -123,8 +123,8 @@ Insert conclusion here lol.
 <br>
 
 ## **Team**
-Amanda Robin Hemmons: Transcription, "Recommendations," Coding <br>
 Lucia Sol Bezzecchi Petroff: "Transkribus in Action," "Conclusion," Transcription <br>
+Amanda Robin Hemmons: Transcription, "Recommendations," Coding <br>
 Alexandre Keyes: Intro, "Observations," Transcription
 
 <br>
@@ -133,4 +133,4 @@ Alexandre Keyes: Intro, "Observations," Transcription
 
 <br>
 
-Bezzecchi Petroff, Lucia Sol, Hemmons, Amanda Robin, and Keyes, Alexandre. (08 June 2023). [PBP Challenge Besançon: Beinecke Ms387](https://amanda2robin.github.io/2023-02-07-PBPChallengeBesançon-BeineckeMs387.md/) *Paris Bible Project: Besançon.*
+Bezzecchi Petroff, Lucia Sol, Hemmons, Amanda Robin, and Keyes, Alexandre. (08 February 2023). [PBP Challenge Besançon: Beinecke Ms387](https://amanda2robin.github.io/2023-02-07-PBPChallengeBesançon-BeineckeMs387.md/) *Paris Bible Project: Besançon.*
