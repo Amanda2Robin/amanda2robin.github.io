@@ -26,7 +26,7 @@ Together with our teammates, we set out to correct the transcription of the begi
 
 <br>
 
-##**Observations of the Scribe**
+## **Observations of the Scribe**
 
 <br>
 
@@ -78,7 +78,7 @@ Other times, the scribe would make mistakes such as altering the order of the wo
 
 <br>
 
-##**Transkribus in Action**
+## **Transkribus in Action**
 
 <br>
 
@@ -90,7 +90,7 @@ Repeating machine transcription mistakes: c = t, ct = d, e=c, rt=u, c=i, rn=m, h
 
 <br>
 
-##**Recommendations**
+## **Recommendations**
 
 <br>
 
@@ -114,7 +114,7 @@ The reversed question mark, ⸮, is also present in the Guidelines and said to s
 
 <br>
 
-##**Conclusion**
+## **Conclusion**
 
 <br>
 
@@ -122,14 +122,14 @@ Insert conclusion here lol.
 
 <br>
 
-##**Team**
+## **Team**
 Alexandre Keyes: Intro, "Observations," Transcription
 Amanda Robin Hemmons: Transcription, "Recommendations," Coding
 Lucia Sol: "Transkribus in Action," "Conclusion," Transcription
 
 <br>
 
-##**Suggested citation**
+## **Suggested citation**
 
 <br>
 
