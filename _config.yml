@@ -22,14 +22,14 @@ baseurl: ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Paris Bible Project
-email: parisbible@gmail.com
+title: Amanda Robin Homepage 
+email: amy.hemms@gmail.com
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  The Paris Bible Project aims to understand the production and diffusion of medieval Latin Bibles in Europe.
+  This functions as a home page and project repository for Amanda Robin
 # A shorter description for the sidebar.
-tagline: The Paris Bible Project aims to understand the production and diffusion of medieval Latin Bibles in Europe.
+tagline: Robin Books, Stealing Time.
 
 
 # A list of keywords for your blog
@@ -43,29 +43,19 @@ keywords:              []
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Estelle> <Guéville>
-  email:               <parisbible@gmail.com>
+  name:                <Amanda> <Robin>
+  email:               <amy.hemms@gmail.com>
   # # Used by `jekyll-seo-tag`:
-twitter:             <BibleParis>
+twitter:             <catreadingbooks>
 
 # Add links to the sidebar.
 menu:
-  - title: Paris Bible Project Genesis
-    url:   /project/
-  - title: Team
+  - title: About
     url:   /team/
   - title: Blog
     url:   /posts/
-  - title: Research and Data
-    url:   /datasets/
-  - title: Transcription Guidelines
-    url:   /guidelines/
-  - title: Publications
-    url:   /publications/
-  - title: Paris Bible Challenge
-    url:   /challenge/
-  - title: Participate
-    url:   /participate/
+  - title: Projects
+    url:   /project/
 
 
 
@@ -81,7 +71,7 @@ legal:
 #    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2023. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -102,7 +92,7 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/BnF_Latin40_Page_012_op50.jpg
+accent_image:          /assets/pexels-klaudia-ekert-2383122-v2.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -156,7 +146,7 @@ defaults:
   #     comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
-  # but we want them to be `WebPage`s:
+  # but we want them to be `WebPage`s: 
   - scope:
       type:            projects
     values:
@@ -378,7 +368,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/<amanda2robin>
 
 
 # Plugin Configs
