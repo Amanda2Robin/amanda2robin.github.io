@@ -23,7 +23,7 @@ lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title: Amanda Robin Homepage 
-email: amy.hemms@gmail.com
+email: 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
@@ -44,14 +44,14 @@ keywords:              []
 author:
   # Used by `jekyll-feed`:
   name:                <Amanda> <Robin>
-  email:               <amy.hemms@gmail.com>
+  email:               
   # # Used by `jekyll-seo-tag`:
 twitter:             <catreadingbooks>
 
 # Add links to the sidebar.
 menu:
   - title: About
-    url:   /team/
+    url:   /about/
   - title: Blog
     url:   /posts/
   - title: Projects
