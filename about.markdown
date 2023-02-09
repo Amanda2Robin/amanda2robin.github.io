@@ -16,4 +16,8 @@ Robin has worked in a shop dealing in antiquarian books, created assembly instru
 
 <br>
 
+ORCID ID: 0000-0002-6986-3256   |   LinkedIn   |   
+
+<br>
+
 For any inquiries, suggestions, requests, Robin can be reached [HERE](mailto:amy.hemms@gmail.com)
