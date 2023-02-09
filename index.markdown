@@ -12,7 +12,7 @@ cover:  false #!! Add this
 
 # What's new?
 
-In January 2023, participated in the first [Paris Bible Challenge](https://parisbible.github.io/challenge/). Blog post [here](amanda2robin.github.io/2023-02-07-PBPChallengeBesançon-BeineckeMs387.md)!
+In January 2023, participated in the first [Paris Bible Challenge](https://parisbible.github.io/challenge/). Blog post [here](https://amanda2robin.github.io/2023-02-07-PBPChallengeBesan%C3%A7on-BeineckeMs387/)!
 
 
 # Upcoming projects 
