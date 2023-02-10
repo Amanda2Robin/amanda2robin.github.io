@@ -86,7 +86,7 @@ Even though we’ve been mainly focusing on errors or mistakes either made by th
 
 <br>
 
-| <img src="/assets/PBP_387_facientum" style="zoom:100%;" /> | *Figure 10: Transkribus page 5, paragraph 3, line 2.* 
+| <img src="/assets/PBP_387_facientum.png" style="zoom:100%;" /> | *Figure 10: Transkribus page 5, paragraph 3, line 2.* 
 
 <br>
 
