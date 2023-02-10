@@ -22,7 +22,7 @@ Our group was given the Bible identified as "Beinecke MS 387," a 13th century Bi
 
 <br>
 
-Together with our teammates, we set out to correct the transcription of the beginning of Genesis. We optimistically attempted multiple pages, but we ran into several issues and discussing possible solutions amongst ourselves delayed our task. The first challenge we faced was making sense of the Bible's words, letters and punctuation marks, since typography, calligraphy and grammar rules back when this book was made were quite different from modern day languages. Understanding the passages was no easy feat but between the PBP Transcription [Guidelines](https://parisbible.github.io/guidelines/) and a Vulgate Latin Bible for reference we were able to decipher the scribe's meaning. 
+Together with our teammates, we set out to correct the transcription of the beginning of Genesis. We optimistically attempted multiple pages, but we ran into several issues and discussing possible solutions amongst ourselves delayed our task. Ultimately we were only able to complete the transcription editing for Transkribus page 5, the first recto and verso of Genesis, as well as the first column of the following page. The first challenge we faced was making sense of the Bible's words, letters and punctuation marks, since typography, calligraphy and grammar rules back when this book was made were quite different from modern day languages. Understanding the passages was no easy feat but between the PBP Transcription [Guidelines](https://parisbible.github.io/guidelines/) and a Vulgate Latin Bible for reference we were able to decipher the scribe's meaning. 
 
 <br>
 
@@ -34,7 +34,7 @@ However practical and useful the guidelines were in the beginning, we soon reali
 
 <br>
 
-| <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | **Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.** |
+| <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | *Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.* |
 
 <br>
 
@@ -42,7 +42,7 @@ This was also the case for the word deus, which was generally abbreviated as ꝺ
 
 <br>
 
-| <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | **Figure 2: Example of ꝺs̄ within the text.** 
+| <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | *Figure 2: Example of ꝺs̄ within the text.* 
 
 <br>
 
@@ -56,7 +56,7 @@ While training for scribal work and copying existed in monastaries, as far as we
 
 | <img src="/assets/PBP_387_habent.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_quod.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_igitur.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_eius.png" style="zoom:100%;" /> |
 |---|---|---|---|
-| **Figure 3: Example of macron usage to condense words in the text.** | **Figure 4: Example of "quod" abbreviation.**                    | **Figure 5: Example of "igitur" abbreviation.**                    | **Figure 6: Example of "quod" abbreviation.**                      |
+| *Figure 3: Example of macron usage to condense words in the text.* | *Figure 4: Example of "quod" abbreviation.*                    | *Figure 5: Example of "igitur" abbreviation.*                    | *Figure 6: Example of "quod" abbreviation.*                      |
 
 <br>
 
@@ -66,7 +66,7 @@ Other inconsistency issues we noticed during the correction process occurred wit
 
 | <img src="/assets/PBP_387_capitalization_et.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_capitalization_color.png" style="zoom:100%;" /> |
 |---|---|
-| **Figure 7: Example of et capitalization within the text.**      | **Figure 8: Example of colored capitalization within the text.** |
+| *Figure 7: Example of et capitalization within the text.*      | *Figure 8: Example of colored capitalization within the text.* |
 
 <br>
 
@@ -74,7 +74,7 @@ Other times, the scribe would make mistakes such as altering the order of the wo
 
 <br>
 
-| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | **Figure 9: Example of tertueſ/tertius within the text.** 
+| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of tertueſ/tertius within the text.* 
 
 <br>
 
@@ -86,7 +86,7 @@ Even though we’ve been mainly focusing on errors or mistakes either made by th
 
 <br>
 
-| <img src="/assets/PBP_387_facientum" style="zoom:100%;" /> | **Figure 10: Transkribus page 5, paragraph 3, line 2.** 
+| <img src="/assets/PBP_387_facientum" style="zoom:100%;" /> | *Figure 10: Transkribus page 5, paragraph 3, line 2.* 
 
 <br>
 
@@ -104,7 +104,7 @@ The usage of 3 to stand for "ue" and often used with q to stand for "que" as ind
 
 | <img src="/assets/PBP_387_q3_apostrophe.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_q3_between.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_q3_three.png" style="zoom:100%;" /> |
 |---|---|---|
-| Figure 11: qꝫ appearing as q;.  | Figure 12: qꝫ appearing as neither. | Figure 13: qꝫ appearing as qꝫ.  |
+| *Figure 11: qꝫ appearing as q;.*  | *Figure 12: qꝫ appearing as neither.* | *Figure 13: qꝫ appearing as qꝫ.*  |
 
 <br>
 
@@ -114,7 +114,7 @@ The reversed question mark, ⸮, is also present in the Guidelines and said to s
 
 | <img src="/assets/PBP_387_no_function1.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_no_function2.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_no_function3.png" style="zoom:100%;" /> |
 |---|---|---|
-| Figure 14: ⸮ clearly depicted.  | Figure 15: ⸮ appearing as more of a "F". | Figure 16: ⸮ appearing as more of a "E".  |
+| *Figure 14: ⸮ clearly depicted.*  | *Figure 15: ⸮ appearing as more of a "F".* | *Figure 16: ⸮ appearing as more of a "E".*  |
 
 <br>
 
