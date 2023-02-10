@@ -43,10 +43,10 @@ keywords:              []
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Amanda> <Robin>
+  name:                Amanda Robin
   email:               
   # # Used by `jekyll-seo-tag`:
-twitter:             <catreadingbooks>
+twitter:             catreadingbooks
 
 # Add links to the sidebar.
 menu:
