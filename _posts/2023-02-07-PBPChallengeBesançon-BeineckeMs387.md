@@ -38,7 +38,7 @@ However practical and useful the guidelines were in the beginning, we soon reali
 
 <br>
 
-This was also the case for the word deus, which was generally abbreviated as ꝺs̄ with a macron between the first and second letter. In some instances, we noticed that the full word would be written out with no indication why sometimes it would be abbreviated and sometimes not. 
+This was also the case for the word *deus*, which was generally abbreviated as ꝺs̄ with a macron between the first and second letter. In some instances, we noticed that the full word would be written out with no indication why sometimes it would be abbreviated and sometimes not. 
 
 <br>
 
@@ -50,13 +50,13 @@ This begs the question of why have such a variety in abbreviations for the same 
 
 <br>
 
-While training for scribal work and copying existed in monastaries, as far as we know, no standard was put into place to regulate abbreviations. While there are a few that seem to be universal in Paris Bibles, like the macron over a letter to replace an "m" or an "n" and to combine letters which turned words like "habent" into hn̄t (Fig. 3), some of the abbreviations the copyist for the Beinecke MS 387 appear to be less common. Among these uncommon abbreviations that were recurring in our Bible were gᔆ, which stood in for the word "igitur" (Fig. 4) and qͦ, which replaced "quod" (Fig. 5). Furthermore, in the 39th row of the second column of the first page, there is an abbreviation which we could not confidently decipher. We believe this word to represent eius (Fig. 6) but because of the low picture, occurrences like this one became like this one were difficult to interpret, especially since our scribe was not the most consistent nor the most clear to begin with. 
+While training for scribal work and copying existed in monastaries, as far as we know, no standard was put into place to regulate abbreviations. While there are a few that seem to be universal in Paris Bibles, like the macron over a letter to replace an "m" or an "n" and to combine letters which turned words like *habent* into hn̄t (Fig. 3), some of the abbreviations the copyist for the Beinecke MS 387 appear to be less common. Among these uncommon abbreviations that were recurring in our Bible were gᔆ, which stood in for the word *igitur* (Fig. 4) and qͦ, which replaced *quod* (Fig. 5). Furthermore, in the 39th row of the second column of the first page, there is an abbreviation which we could not confidently decipher. We believe this word to represent *eius* (Fig. 6) but because of the low picture, occurrences like this one became like this one were difficult to interpret, especially since our scribe was not the most consistent nor the most clear to begin with. 
 
 <br>
 
 | <img src="/assets/PBP_387_habent.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_quod.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_igitur.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_eius.png" style="zoom:100%;" /> |
 |---|---|---|---|
-| *Figure 3: Example of macron usage to condense words in the text.* | *Figure 4: Example of "quod" abbreviation.*                    | *Figure 5: Example of "igitur" abbreviation.*                    | *Figure 6: Example of "quod" abbreviation.*                      |
+| *Figure 3: Example of macron usage to condense words in the text.* | *Figure 4: Example of *quod* abbreviation.*                    | *Figure 5: Example of *igitur* abbreviation.*                    | *Figure 6: Example of *quod* abbreviation.*                      |
 
 <br>
 
@@ -66,15 +66,15 @@ Other inconsistency issues we noticed during the correction process occurred wit
 
 | <img src="/assets/PBP_387_capitalization_et.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_capitalization_color.png" style="zoom:100%;" /> |
 |---|---|
-| *Figure 7: Example of et capitalization within the text.*      | *Figure 8: Example of colored capitalization within the text.* |
+| *Figure 7: Example of *et* capitalization within the text.*      | *Figure 8: Example of colored capitalization within the text.* |
 
 <br>
 
-Other times, the scribe would make mistakes such as altering the order of the words or adding others (we corroborated this by following a vulgar latin version of the Genesis text.) They would also erroneously or purposefully omit words and in some cases they would add them above the line where they originally should have been. Other times, they crossed out a word or even wrote them twice because the first attempt had come out illegible, as was the case with this repeated word tertius in the last line of page 1, column 1, paragraph 3. Although the word wasn’t crossed out, the scribe wrote it down a second time, perhaps thinking the first attempt wasn’t visible enough.
+Other times, the scribe would make mistakes such as altering the order of the words or adding others (we corroborated this by following a Vulgate Latin version of the Genesis text). They would also erroneously or purposefully omit words and in some cases they would add them above the line where they originally should have been. Other times, they crossed out a word or even wrote them twice because the first attempt had come out illegible, as was the case with this repeated word *tertius* in the last line of page 1, column 1, paragraph 3. Although the word wasn’t crossed out, the scribe wrote it down a second time, perhaps thinking the first attempt wasn’t visible enough.
 
 <br>
 
-| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of tertueſ/tertius within the text.* 
+| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of *tertueſ/tertius* within the text.* 
 
 <br>
 
@@ -98,23 +98,23 @@ However, we also noticed when the machine transcription made several repeated mi
 
 <br>
 
-The usage of 3 to stand for "ue" and often used with q to stand for "que" as indicated on the Guidelines is reflected in our experience with this manuscript. However, the scribe's handwriting gives that 3 a variety of appearances and occassionally appears as a semi-colon. Adding an example or two of the variety of 3s would be beneificial to any future crowdsourced transcription work. 
+The usage of 3 to stand for "ue" and often used with q to stand for *que* as indicated on the Guidelines is reflected in our experience with this manuscript. However, the scribe's handwriting gives that 3 a variety of appearances and occassionally appears as a semi-colon. Adding an example or two of the variety of 3s would be beneificial to any future crowdsourced transcription work. 
 
 <br>
 
 | <img src="/assets/PBP_387_q3_apostrophe.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_q3_between.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_q3_three.png" style="zoom:100%;" /> |
 |---|---|---|
-| *Figure 11: qꝫ appearing as q;.*  | *Figure 12: qꝫ appearing as neither.* | *Figure 13: qꝫ appearing as qꝫ.*  |
+| *Figure 11: (qꝫ) appearing as (q;).*  | *Figure 12: (qꝫ) appearing as neither.* | *Figure 13: (qꝫ) appearing as (qꝫ).*  |
 
 <br>
 
-The reversed question mark, ⸮, is also present in the Guidelines and said to stand for the usual question mark. In this manuscript, the ⸮ shows up repeatedly and does not appear to represent any word or punctuation. It would be a good idea to note that in the Guidelines. 
+The reversed question mark (⸮) is also present in the Guidelines and said to stand for the usual question mark. In this manuscript, the ⸮ shows up repeatedly and does not appear to represent any word or punctuation. It would be a good idea to note that in the Guidelines. 
 
 <br>
 
 | <img src="/assets/PBP_387_no_function1.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_no_function2.png" style="zoom:100%;" /> | <img src="/assets/PBP_387_no_function3.png" style="zoom:100%;" /> |
 |---|---|---|
-| *Figure 14: ⸮ clearly depicted.*  | *Figure 15: ⸮ appearing as more of a "F".* | *Figure 16: ⸮ appearing as more of a "E".*  |
+| *Figure 14: *⸮* clearly depicted.*  | *Figure 15: *⸮* appearing as more of a "F".* | *Figure 16: *⸮* appearing as more of a "E".*  |
 
 <br>
 
