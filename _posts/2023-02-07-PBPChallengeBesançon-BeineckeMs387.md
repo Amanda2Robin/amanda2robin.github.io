@@ -124,9 +124,15 @@ The reversed question mark, ⸮, is also present in the Guidelines and said to s
 
 To conclude, we learned a lot about how manuscripts and AI can interact together during our hands-on challenge week with the Paris Bible Project. Before starting the Correct-a-thon, the abbreviations we had seen in the manuscripts at Besançon’s municipal library weren’t decoded for us and we weren’t given any sort of resources on how to decipher them. But thanks to our participation in the project, a new door has opened for us in the sense that we are now better equipped to understand and interpret medieval Latin manuscripts. Moreover, it was only when we got to see how the illuminations found in Genesis of the four manuscript Bibles look in person and how they can vary from one manuscript to another. This experience was a great help that furthered our understanding of the creative process behind these beautiful, ancient items.
 
+<br>
+
 This challenge also represented the first time we worked with AI during this master, and with this, we were really able to understand how a model for transcribing manuscripts can evolve with the submissions of pages. It helped us realize the importance AI research and transcription tools can possess when working with medieval manuscripts and other rare and ancient books, as the paleographic task that these documents command is quite heavy for non-computer assisted projects, especially for a document with as many pages as the Bible! It was truly shocking to see how efficiently and consistently the model was able to understand the imperfect calligraphy and poor picture quality of the Beinecke MS 387 Bible.
 
+<br>
+
 Lastly, we would like to note that, while it is impossible to learn a whole new software in just five days, David and Estelle gave us the proper tools and knowledge so that we can continue using Transkribus beyond the scope of the Paris Bible Correct-a-thon and apply what we learned for our current or future research projects, as we now have multiple hours of experience under our belt of working with an AI tool such as Transkribus.
+
+<br>
 
 David and Estelle, we thank you for having us participate in this challenge, it was a wonderful learning experience and we hope to work with you again someday! :) 
 
