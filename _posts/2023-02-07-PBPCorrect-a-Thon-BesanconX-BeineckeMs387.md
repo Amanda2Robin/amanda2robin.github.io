@@ -98,7 +98,9 @@ Even though we’ve been mainly focusing on errors or mistakes either made by th
 However, we also noticed when the machine transcription made several repeated mistakes, particularly in the case of words that looked similar. Repeating machine transcription mistakes: 
 
 | c = t | ct = d | e = c |
+|---|---|---|
 | rt = u  | c = i | rn = m |
+|---|---|---|
 | h = b | H = N | s = o |
 |---|---|---|
 
