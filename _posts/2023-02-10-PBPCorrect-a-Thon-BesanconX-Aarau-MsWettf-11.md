@@ -35,7 +35,7 @@ The first initial of Genesis narrates the creation of the universal in seven cir
 
 
 **Figure 1 : Genesis, page 7**
-<img src = “/assets/PBP_MsWettf11_GenesisP1” style= “zoom:%50;” />
+<img src = “/assets/PBP_MsWettf11_GenesisP1.png” style= “zoom:%50;” />
 
 
 
@@ -60,13 +60,13 @@ Typically, the resemblance of the letters was tough to determine straightforward
 
   
 **Figure 5: The translation of Transkribus HTR-1** :  Quo mortuo timentes fratres  
-< img src = “/assets/PBP_MsWettf11_HTR_1.png” style= “zoom:%50;” />
+<img src=“/assets/PBP_MsWettf11_HTR_1.png” style= “zoom:%50;” />
 
 <br>
 
 
 **Figure 6: The translation of Transkribus HTR-2** : absque parvulis et gregibus atque
-< img src = “/assets/PBP_MsWettf11_HTR_2.png” style= “zoom:%50;” />
+<img src=“/assets/PBP_MsWettf11_HTR_2.png” style= “zoom:%50;” />
 
 <br>
 While we were attempting to review the text word by word, we noticed that some words that there are slight variations in word order and omissions compared with the edition of the reference [Latin Bible](http://www.thelatinlibrary.com/) Obviously, we ought to keep in mind the Bible written by hand would result in scribal fatigue. In those moments, it could be easy to forget a word or to miss a line. 
@@ -76,8 +76,8 @@ Other problems in line order were sometimes caused by Transkribus itself. We obs
 <br>
 
 
-            **Figure 7 : Errors** 
-< img src = “/assets/PBP_MsWettf11_Errors.png” style= “zoom:%50;” />
+**Figure 7 : Errors** 
+<img src = “/assets/PBP_MsWettf11_Errors.png” style= “zoom:%50;” />
 
 <br>
 
@@ -91,7 +91,7 @@ We analyzed the transcription of our folio from Genesis in Arrau MsWettF 11 to g
 
 
 **Figure 8 : Word frequency of the first folio of Genesis, Aarau MsWettF 11 **
- < img src = “/assets/PBP_MS5_Visuel.png” style= “zoom:%50;” />
+ <img src=“/assets/PBP_MS5_Visuel.png” style= “zoom:%50;” />
 
 <br>
 
