@@ -26,7 +26,7 @@ We worked with photographs of Stanford ms. 23 manuscript pages taken by David J.
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig1.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig1.jpg" style="zoom:40%;" />
 
 **Figure 1: First page of Genesis from the manuscript.**
 
@@ -46,7 +46,7 @@ What did we notice while working on the manuscript using Transkribus?
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig2.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig2.jpg" style="zoom:40%;" />
 
 **Figure 2: Example of good text recognition.**
 
@@ -56,7 +56,7 @@ What did we notice while working on the manuscript using Transkribus?
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig3.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig3.jpg" style="zoom:40%;" />
 
 **Figure 3: Example of text recognition with Transkribus. The words not highlighted in blue are unrecognized.**
 
@@ -67,7 +67,7 @@ What did we notice while working on the manuscript using Transkribus?
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig4.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig4.jpg" style="zoom:40%;" />
 
 **Figure 4: Example of mistaken recognition with Transkribus.**
 
@@ -78,7 +78,7 @@ What did we notice while working on the manuscript using Transkribus?
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig5.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig5.jpg" style="zoom:40%;" />
 
 **Figure 5: Example of the abbreviation *ꝫ* used for *ue* letters at the end of words.**
 
@@ -97,7 +97,7 @@ We would like to elaborate on the manuscript and the features of the scribe’s 
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig6.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig6.jpg" style="zoom:40%;" />
 
 **Figure 6: Example of abbreviations for *super*.**
 
@@ -108,7 +108,7 @@ We would like to elaborate on the manuscript and the features of the scribe’s 
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig7.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig7.jpg" style="zoom:40%;" />
 
 **Figure 7: Examples of misspelling and word rearrangement.**
 
@@ -118,7 +118,7 @@ We would like to elaborate on the manuscript and the features of the scribe’s 
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig8.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig8.jpg" style="zoom:40%;" />
 
 **Figure 8: Examples of names’ spellings.**
 
@@ -145,7 +145,7 @@ We would like to elaborate on the manuscript and the features of the scribe’s 
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig9.jpg" style="zoom:50%;" />
+<img src="/assets/PBP_StandfordMs23_Fig9.jpg" style="zoom:40%;" />
 
 **Figure 9: Examples text reading and analysis of two pages from Genesis using the Voyant tool.**
 
