@@ -35,10 +35,8 @@ However practical and useful the guidelines were in the beginning, we soon reali
 
 <br>
 
-<p style="text-align: center;">
-| <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | *Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.* 
+| <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | *Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.* |
 |-|-|
-  </p>
 
 <br>
 
@@ -46,10 +44,8 @@ This was also the case for the word *deus*, which was generally abbreviated as �
 
 <br>
 
-<p style="text-align: center;">
-| <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | *Figure 2: Example of ꝺs̄ within the text.* 
+| <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | *Figure 2: Example of ꝺs̄ within the text.* |
 |-|-|
-</p>
   
 <br>
 
@@ -81,7 +77,7 @@ Other times, the scribe would make mistakes such as altering the order of the wo
 
 <br>
 
-| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of* tertueſ/tertius *within the text.* 
+| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of* tertueſ/tertius *within the text.* |
 |-|-|
 
 <br>
@@ -94,19 +90,17 @@ Even though we’ve been mainly focusing on errors or mistakes either made by th
 
 <br>
 
-| <img src="/assets/PBP_387_facientum.png" style="zoom:100%;" /> | *Figure 10: Transkribus page 5, paragraph 3, line 2.* 
+| <img src="/assets/PBP_387_facientum.png" style="zoom:100%;" /> | *Figure 10: Transkribus page 5, paragraph 3, line 2.* |
 |-|-|
 
 <br>
 
 However, we also noticed when the machine transcription made several repeated mistakes, particularly in the case of words that looked similar. Repeating machine transcription mistakes: 
 
-<p style="text-align: center;">
 | c = t | ct = d | e = c |
-|---|---|---|
 | rt = u  | c = i | rn = m |
 | h = b | H = N | s = o |
-  </p>
+|---|---|---|
 
 <br>
 
