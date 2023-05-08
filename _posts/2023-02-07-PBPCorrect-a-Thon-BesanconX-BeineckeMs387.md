@@ -75,7 +75,8 @@ Other times, the scribe would make mistakes such as altering the order of the wo
 
 <br>
 
-| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of* tertueſ/tertius *within the text.* |-|-|
+| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of* tertueſ/tertius *within the text.* 
+|-|-|
 
 <br>
 
@@ -87,7 +88,8 @@ Even though we’ve been mainly focusing on errors or mistakes either made by th
 
 <br>
 
-| <img src="/assets/PBP_387_facientum.png" style="zoom:100%;" /> | *Figure 10: Transkribus page 5, paragraph 3, line 2.* |-|-|
+| <img src="/assets/PBP_387_facientum.png" style="zoom:100%;" /> | *Figure 10: Transkribus page 5, paragraph 3, line 2.* 
+|-|-|
 
 <br>
 
@@ -95,6 +97,12 @@ However, we also noticed when the machine transcription made several repeated mi
 
 | c = t | ct = d | e = c | rt = u | c = i |---|---|---|---|---|
 rn = m | h = b | H = N | s = o |-|
+
+| c = t | ct = d | e = c |
+|---|---|---|
+| rt = u  | c = i | rn = m |
+|---|---|---|
+| h = b | H = N | s = o |
 
 <br>
 
