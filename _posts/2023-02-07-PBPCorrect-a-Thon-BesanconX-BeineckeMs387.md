@@ -35,7 +35,8 @@ However practical and useful the guidelines were in the beginning, we soon reali
 
 <br>
 
-| <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | *Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.* |-|-|
+| <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | *Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.* 
+|-|-|
 
 <br>
 
@@ -43,7 +44,8 @@ This was also the case for the word *deus*, which was generally abbreviated as �
 
 <br>
 
-| <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | *Figure 2: Example of ꝺs̄ within the text.* |-|-|
+| <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | *Figure 2: Example of ꝺs̄ within the text.* 
+|-|-|
 
 <br>
 
@@ -101,7 +103,7 @@ rn = m | h = b | H = N | s = o |-|
 | c = t | ct = d | e = c |
 |---|---|---|
 | rt = u  | c = i | rn = m |
-|---|---|---|
+|-|-|-|
 | h = b | H = N | s = o |
 
 <br>
