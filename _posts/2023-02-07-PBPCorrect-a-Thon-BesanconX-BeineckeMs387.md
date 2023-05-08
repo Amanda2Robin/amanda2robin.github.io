@@ -35,8 +35,10 @@ However practical and useful the guidelines were in the beginning, we soon reali
 
 <br>
 
+<p style="text-align: center;">
 | <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | *Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.* 
 |-|-|
+  </p>
 
 <br>
 
@@ -44,9 +46,11 @@ This was also the case for the word *deus*, which was generally abbreviated as �
 
 <br>
 
+<p style="text-align: center;">
 | <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | *Figure 2: Example of ꝺs̄ within the text.* 
 |-|-|
-
+</p>
+  
 <br>
 
 This begs the question of why we find a variety in abbreviations for the same word, and why is it that on a single leaf, there appears to be no logic behind the decision of which abbreviation gets used. One could hypothesize that the choice of abbreviations is related to the remaining space on the line. Or perhaps it could simply be because such abbreviations appeared this way in our scribe’s reference Bible, and he was just copying what was in front of him. Either way, the scribe who transcribed the Beinecke MS 387 Bible was **consistently inconsistent** in his abbreviations and in his refusal to create uniformity throughout, which made the transcription that much more an interesting challenge.
@@ -97,14 +101,12 @@ Even though we’ve been mainly focusing on errors or mistakes either made by th
 
 However, we also noticed when the machine transcription made several repeated mistakes, particularly in the case of words that looked similar. Repeating machine transcription mistakes: 
 
-| c = t | ct = d | e = c | rt = u | c = i |---|---|---|---|---|
-rn = m | h = b | H = N | s = o |-|
-
+<p style="text-align: center;">
 | c = t | ct = d | e = c |
 |---|---|---|
 | rt = u  | c = i | rn = m |
-|-|-|-|
 | h = b | H = N | s = o |
+  </p>
 
 <br>
 
