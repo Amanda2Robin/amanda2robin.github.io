@@ -24,19 +24,19 @@ Regarding handwriting, one of the main differences we observed was in the styliz
 
 <br>
 
-![Figure 1: Example of long letters at the bottom line of __ in the Beinecke MS 1100 manuscript.](/assets/Beinecke_1100_Figure1.png)
+![Figure 1: Example of long letters at the bottom line of __ in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure1.png)
 <br>
 © Fig.1: Example of long letters at the bottom line of 7r in the Beinecke MS 1100 manuscript. 
 
 <br>
 
-![Figure 2: Example of “regular” letters at the bottom line of 6v in the Beinecke MS 1100 manuscript.](/assets/Beinecke_1100_Figure2.png)
+![Figure 2: Example of “regular” letters at the bottom line of 6v in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure2.png)
 <br>
 © Fig. 2: Example of “regular” letters at the bottom line of 6v, the Beinecke MS 1100 manuscript. 
 
 <br>
 
-![Figure 3: Example of long letters at the bottom line of 7v in the Beinecke MS 1100 manuscript.](/assets/Beinecke_1100_Figure3.png)
+![Figure 3: Example of long letters at the bottom line of 7v in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure3.png)
 <br>
 © Fig. 3: Example of long letters at the bottom line of 7v, The Beinecke MS 1100.
 
@@ -64,7 +64,7 @@ Note also how the handwriting appears more compact, the letters and ink more den
 
 With regards to abbreviations, the most interesting observation we made by far has to do with the ambiguity surrounding the abbreviations ‘ꝫ’ and ‘;’. The unicode character ‘ꝫ’ (A76B)  is usually used, as described in the [Transcription Guidelines](https://parisbible.github.io/guidelines/), to denote the letter combinations ‘ue’ and ‘us’, often found right after the letter ‘q’. The unicode character ‘;’ (003B) stands for a semi-colon. In Genesis, in some instances, the two are used interchangeably: on 7r, the ‘ꝫ’ is written starkly as a ‘;’ (see Fig.4) but on 6v, in the first column, second to last line, it appears as a normal ‘ꝫ’ (see Fig.5). 
 
-![Figure 4: Example of “ꝫ” written as ; and ꝫ on page 6v and 7r in the Beinecke MS 1100 manuscript.](/assets/Beinecke_1100_Figure4.png)
+![Figure 4: Example of “ꝫ” written as ; and ꝫ on page 6v and 7r in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure4.png)
 
 <br>
 
