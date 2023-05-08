@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon #X: the case of Beinecke MS 387"
+title: "PBP Correct-a-thon Besançon #X: the case of Beinecke Ms 387"
 subtitle: Paris Bible Project MS387
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP][Correct-a-thon Besançon]
@@ -8,7 +8,7 @@ comments: false
 ---
 <base target="_blank">
 
-# **PBP Correct-a-thon Besançon: Beinecke MS 387**
+# **PBP Correct-a-thon Besançon: Beinecke Ms 387**
 
 
 
@@ -17,13 +17,13 @@ comments: false
 This blogpost was written in the context of the Paris Bible Challenge which took place in Besançon, France in January 2023. 
 
 
-We examined the document known as Yale University Library, Beinecke MS 387, a 13th century Bible made either in England or Northern France. What follows is our team’s observations and comments on the "Beinecke MS 387" Bible and the challenge. 
+We examined the document known as Yale University Library, Beinecke Ms 387, a 13th century Bible made either in England or Northern France. What follows is our team’s observations and comments on the "Beinecke Ms 387" Bible and the challenge. 
 
 <br>
 
 Together with our teammates, we set out to correct the transcription of the beginning of Genesis. We optimistically attempted multiple pages, but we ran into several issues and discussing possible solutions amongst ourselves delayed our task. Ultimately we were only able to complete the transcription editing for Transkribus page 5, the first recto and verso of Genesis, as well as the first column of the following page. Nonetheless, at the end of the correct-a-thon the modest contribution of the entire group's transcriptions were added to the ground truth, helping the model lower its error rate by about 2%.
 
-The first challenge we faced was making sense of the Bible's words, letters and punctuation marks. Understanding the passages was no easy feat but between the PBP Transcription [Guidelines](https://parisbible.github.io/guidelines/) and an online [edition](https://www.sacred-texts.com/bib/vul/gen001.htm) of the Vulgate Latin Bible for reference we were able to decipher the scribe's hand. 
+The first challenge we faced was making sense of the Bible's words, letters and punctuation marks. Understanding the passages was no easy feat but between the PBP Transcription [Guidelines](https://parisbible.github.io/guidelines/) and an [online edition](https://www.sacred-texts.com/bib/vul/gen001.htm) of the Vulgate Latin Bible for reference we were able to decipher the scribe's hand. 
 
 <br>
 
@@ -35,7 +35,7 @@ However practical and useful the guidelines were in the beginning, we soon reali
 
 <br>
 
-| <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | *Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.* |
+| <img src="/assets/PBP_387_secundom.png" style="zoom:100%;" /> | *Figure 1: Example of ſcꝺ̄ō within the text of Beinecke 387.* |---|---|
 
 <br>
 
@@ -43,7 +43,7 @@ This was also the case for the word *deus*, which was generally abbreviated as �
 
 <br>
 
-| <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | *Figure 2: Example of ꝺs̄ within the text.* 
+| <img src="/assets/PBP_387_dominus_deus.png" style="zoom:100%;" /> | *Figure 2: Example of ꝺs̄ within the text.* |---|---|
 
 <br>
 
@@ -75,7 +75,7 @@ Other times, the scribe would make mistakes such as altering the order of the wo
 
 <br>
 
-| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of* tertueſ/tertius *within the text.* 
+| <img src="/assets/PBP_387_tertius.png" style="zoom:100%;" /> | *Figure 9: Example of* tertueſ/tertius *within the text.* |---|---|
 
 <br>
 
@@ -93,7 +93,8 @@ Even though we’ve been mainly focusing on errors or mistakes either made by th
 
 However, we also noticed when the machine transcription made several repeated mistakes, particularly in the case of words that looked similar. Repeating machine transcription mistakes: 
 
-| c = t | ct = d | e = c | rt = u | c = i | rn = m | h = b | H = N | s = o |
+| c = t | ct = d | e = c | rt = u | c = i |---|---|---|---|---|
+rn = m | h = b | H = N | s = o |
 
 <br>
 
