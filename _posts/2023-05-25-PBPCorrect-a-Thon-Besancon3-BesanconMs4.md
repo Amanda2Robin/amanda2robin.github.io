@@ -29,7 +29,7 @@ Encountering a handwritten bible transcribed by the AI was a new experience for 
 In the beginning we were confused why some 'i' letters had a mark. After reading half of the page, we realized that the scribe used 'i'  with a mark when the word contained "u", 'm", or 'n'. An obvious attempt to help the reader distinguish between letters - confusing to our untrained and print-obsessed eyes. The AI wasn't effective in identifying these characters either, leading to numerous errors in words with these letters.
 
 <p>
-<img src="/assets/markingi.png" style="zoom:100%;" />
+<img src="/assets/PBP_Bes4_markingi.png" style="zoom:100%;" />
  <br>
  Fig.2: Recognizing different letters
  </p>
@@ -131,7 +131,9 @@ We went to visit the Bibliothèque Municipale de Besançon halfway through the w
 
 The manuscript that our team worked on was included in this selection and being able to interact with the book changed our perspective. This particular manuscript was much larger than we had originally anticipated. It is a manuscript that had been rebound in calf leather. The first page of the Genesis chapter was missing and, although we knew this from the scans, it was interesting to see how this factored into the presentation of the text where it had been rebound. Also, according to the library's catalog, two miniatures are missing on the 243rd and 282nd folios. Where the text trumped the scans was being able to view the illustrations up close. While the scans are a great way for being able to create an archival record, being able to view the Bibles themselves was pretty special. It was interesting to hear that David Wrisley had travelled so far to view them himself, where few who actually live in the town even are aware that this is a potential interest. Indeed, the benefit of the PBP is to be able to look at such objects in history and make them accessible and interesting; to provide such a clear glimpse into what one object can bring to a much broader sphere of influence. 
 
+## **Team**
+Sharon Hassive Guerra Álvarez, Nina Jacobson, Sümeyye Topkara.
 
-## **Suggested citation:**
-Guerra Álvarez, Sharon Hassive, Jacobson, Nina and Topkara, Sümeyye. (10 February 2023). PBP Correct-a-thon Besançon: Besançon ms 4. *Paris Bible Project.*
+## **Suggested citation**
+Guerra Álvarez, Sharon Hassive, Jacobson, Nina and Topkara, Sümeyye. (25 May 2023). PBP Correct-a-thon Besançon: Besançon Ms 4 *Paris Bible Project.*
 
