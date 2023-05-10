@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon #X: Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100"
+title: "PBP Correct-a-thon Besançon #1: the case of Beinecke MS 1100"
 subtitle: Scribal Differences and Abbreviation Ambiguities in Beinecke MS 1100 
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP][Correct-a-thon Besançon]
@@ -86,12 +86,12 @@ This is not to say that we should aim to emulate or go back to a time where manu
 
 <br>
 
+## Team
+Gauri Bhagwat, Alice Fournier and Robert Lloyd.
 
-**Gauri Bhagwat, Alice Fournier and Robert Lloyd**
+## Suggested citation
 
-### Suggested citation:
-
-Bhagwat, Gauri, Fournier, Alice and Lloyd, Robert. (10 February 2023). PBP Correct-a-thon Besançon: Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100. *Paris Bible Project.* 
+Bhagwat, Gauri, Fournier, Alice and Lloyd, Robert. (11 May 2023). PBP Correct-a-thon Besançon: Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100. *Paris Bible Project.* 
 
 
 
