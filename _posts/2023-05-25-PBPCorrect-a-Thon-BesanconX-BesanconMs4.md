@@ -29,7 +29,7 @@ Encountering a handwritten bible transcribed by the AI was a new experience for 
 In the beginning we were confused why some 'i' letters had a mark. After reading half of the page, we realized that the scribe used 'i'  with a mark when the word contained "u", 'm", or 'n'. An obvious attempt to help the reader distinguish between letters - confusing to our untrained and print-obsessed eyes. The AI wasn't effective in identifying these characters either, leading to numerous errors in words with these letters.
 
 <p>
-<img src="/assets/assets/markingi.png" style="zoom:100%;" />
+<img src="/assets/markingi.png" style="zoom:100%;" />
  <br>
  Fig.2: Recognizing different letters
  </p>
