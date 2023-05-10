@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon #X: the case of Aargauer Kantonsbibliothek, MsWettF 11"
+title: "PBP Correct-a-thon Besançon #6: the case of Aargauer Kantonsbibliothek, MsWettF 11"
 subtitle:  Discovering Paris Bibles with Digital Humanities
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP] [Correct-a-thon Besançon]
 comments: false
-—
+---
 <base target="_blank">
 
 # **PBP Correct-a-thon Besançon: Aargauer Kantonsbibliothek, MsWettF 11**
-
-
 
 <br>
 
@@ -118,11 +116,11 @@ In conclusion, working with Transkribus has been an unusual adventure in underst
 
 <br>
 
-### Suggested citation
+## Team
+Serhat Açar and Elia Coulot. 
 
-<br>
-
-Açar, Serhat, Coulot, Elia. (10 February 2023). PBP Challenge Besançon: Aargauer Kantonsbibliothek, MsWettF 11 with Digital Humanities. *Paris Bible Project.*
+## Suggested citation
+Açar, Serhat, Coulot, Elia. (15 June 2023). PBP Challenge Besançon: Aargauer Kantonsbibliothek, MsWettF 11 with Digital Humanities. *Paris Bible Project.*
 
 
 
