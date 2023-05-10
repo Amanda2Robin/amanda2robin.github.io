@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-Thon Besançon #X: the case of BM Besançon Ms 5"
+title: "PBP Correct-a-thon Besançon #2: the case of BM Besançon Ms 5"
 subtitle: HTR for Paris Bibles at Besançon
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP][Correct-a-thon Besançon]
@@ -11,7 +11,7 @@ comments: false
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-# **PBP Correct-a-thon Besançon: BM Besançon ms 5*
+# **PBP Correct-a-thon Besançon: BM Besançon Ms 5**
 <img src="/assets/PBP_MS5_Bibles.png" style="zoom:100%;" />
 
 *Ms 5 of the Bibliothèque Municipale de Besançon*
