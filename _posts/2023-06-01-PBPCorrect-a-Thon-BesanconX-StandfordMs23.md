@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon # 4: the case of Stanford Ms 23"
+title: "PBP Correct-a-thon Besançon #4: the case of Stanford Ms 23"
 subtitle:.
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP][Correct-a-thon Besançon]
@@ -22,7 +22,7 @@ The main goal of the correct-a-thon was to reflect on the use of Transkribus wit
 
 <br>
 
-We worked with photographs of Stanford ms. 23 manuscript pages taken by David J. Wrisley at the Stanford Library. The entire manuscript has not been digitized but several pages are available [online at the Stanford libraries website](https://searchworks.stanford.edu/view/8439778). The manuscript we believe was made in Paris in the mid-1250s, small in size (148 x 96 mm) with extremely thin pages. The text is written in brown ink in a minuscule bookhand in two columns, 48 lines per page. The first letters of Genesis and Exodus which we were able to work with are richly decorated. Capital letters are accentuated with red. The first letters of the chapters are in red and blue. The title of the book (Genesis or Exodus) is also in the same colors at the top of the page. A few marginalia were found in these sections.
+We worked with photographs of Stanford Ms 23 manuscript pages taken by David J. Wrisley at the Stanford Library. The entire manuscript has not been digitized but several pages are available [online at the Stanford libraries website](https://searchworks.stanford.edu/view/8439778). The manuscript we believe was made in Paris in the mid-1250s, small in size (148 x 96 mm) with extremely thin pages. The text is written in brown ink in a minuscule bookhand in two columns, 48 lines per page. The first letters of Genesis and Exodus which we were able to work with are richly decorated. Capital letters are accentuated with red. The first letters of the chapters are in red and blue. The title of the book (Genesis or Exodus) is also in the same colors at the top of the page. A few marginalia were found in these sections.
 
 <br>
 
