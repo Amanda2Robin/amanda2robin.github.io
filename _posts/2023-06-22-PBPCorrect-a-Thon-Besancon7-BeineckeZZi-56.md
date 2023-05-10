@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon #X: the case of Beinecke ZZi 56"
+title: "PBP Correct-a-thon Besançon #7: the case of Beinecke ZZi 56"
 subtitle: Recurrent mistakes when transcribing Beinecke ZZi 56 with AI.
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP][Correct-a-thon Besançon]
@@ -86,8 +86,10 @@ Finally, participating in a community challenge such as this one was a valuable 
 </li>
 </ul>
 <br>
-<br>
+
+## Team
+Úna Faller, Diego Rodriguez. 
 
 ## **Suggested citation**
-Faller, Úna and Rodriguez, Diego. (09 February 2023). Paris Bible Correct-a-thon: Beinecke ZZi 56 *Paris Bible Project.*
+Faller, Úna and Rodriguez, Diego. (22 June 2023). Paris Bible Correct-a-thon: Beinecke ZZi 56. *Paris Bible Project.*
 
