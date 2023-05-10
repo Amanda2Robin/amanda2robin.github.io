@@ -13,7 +13,8 @@ comments: false
 <br>
 <img src="/assets/PBP_MS5_Bibles.png" style="zoom:100%;" /> 
 <br>
-*Fig. 1. Ms 5 of the Bibliothèque Municipale de Besançon*
+Fig. 1. Ms 5 of the Bibliothèque Municipale de Besançon
+<br>
 <br>
 
 ## Introduction
@@ -25,7 +26,8 @@ In this post, we intend to describe the revision process of the automatically ge
 <br>
 <img src="/assets/PBP_MS5_Bible.png" style="zoom:100%;" />
 <br>
-*Fig. 2. Photo by David Joseph Wrisley*
+Fig. 2. Photo by David Joseph Wrisley
+<br>
 <br>
 
 ## Physical description of the BM Besançon Ms 5
@@ -40,7 +42,8 @@ During the correct-a-thon, we compared the transcription produced by the model a
 <br>
 <img src="/assets/PBP_MS5_Visuel.png" style="zoom:100%;" />
 <br>
-*Fig. 3. Genesis transcription wordcloud of the most common abbreviations*
+Fig. 3. Genesis transcription wordcloud of the most common abbreviations
+<br>
 <br>
 
 On the other hand, the model often mistook the clusters in which an “r” was present for an “n” like in the word “ariꝺā” transcribed as “inda” or “mrēm” as “inrēm” or even “tigris” taken as “tigns”. Additionally, we observed an inversion in the order of “i” and “u”, like in “aꝺuitoꝛiuꝫ” being “aꝺiutoꝛiuꝫ” in the transcription.
@@ -52,7 +55,8 @@ Regarding the generation of text regions, our team encountered a major problem, 
 <br>
 <img src="/assets/PBP_MS5_Trkb.png" style="zoom:100%;" />
 <br>
-*Fig. 4. Transkribus Expert Client*
+Fig. 4. Transkribus Expert Client
+<br>
 <br>
 
 Regarding other issues related to the use of Transkribus, learning to use the Expert Client version expanded our range of action, such as editing text regions, using the export button that allows creating txt, pdf, or xml in TEI format files, function that increases interoperability; as well as extending the above-mentioned virtual keyboard.
@@ -65,7 +69,8 @@ An analysis of the text of the manuscript with that of the editions of the Vulga
 <br>
 <img src="/assets/PBP_MS5_Page_9.png" style="zoom:100%;" />
 <br>
-*Fig. 5. Genesis first column page 9*
+Fig. 5. Genesis first column page 9
+<br>
 <br>
 
 | Transcription      | Vulgate Bible |
