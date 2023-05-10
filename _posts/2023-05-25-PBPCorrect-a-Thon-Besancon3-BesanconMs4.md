@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon # 3: the case of Besançon Ms 4"
+title: "PBP Correct-a-thon Besançon #3: the case of Besançon Ms 4"
 subtitle: Paris Bible Project
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP][Correct-a-thon Besançon]
