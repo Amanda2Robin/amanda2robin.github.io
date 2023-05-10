@@ -143,7 +143,7 @@ This challenge also represented the first time we worked with AI during this mas
 <br>
 
 ## **Team**
-Lucia Sol Bezzecchi Petroff, Amanda Robin Hemmons, Alexandre Keyes
+Lucia Sol Bezzecchi Petroff, Amanda Robin Hemmons, Alexandre Keyes.
 
 <br>
 
@@ -151,4 +151,4 @@ Lucia Sol Bezzecchi Petroff, Amanda Robin Hemmons, Alexandre Keyes
 
 <br>
 
-Bezzecchi Petroff, Lucia Sol, Hemmons, Amanda Robin, and Keyes, Alexandre. (08 February 2023). PBP Challenge Besançon: Beinecke Ms387 *Paris Bible Project*
+Bezzecchi Petroff, Lucia Sol, Hemmons, Amanda Robin, and Keyes, Alexandre. (08 June 2023). PBP Challenge Besançon: Beinecke Ms 387 *Paris Bible Project*.
