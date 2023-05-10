@@ -31,10 +31,10 @@ The first initial of Genesis narrates the creation of the universal in seven cir
 
 <br>
 
-
-**Figure 1 : Genesis, page 7**
+<p>
+**Figure 1 : Genesis, page 7** <br>
 <img src = “/assets/PBP_MsWettf11_GenesisP1.png” style= “zoom:%50;” />
-
+</p>
 
 
 ## **Transkribus**
