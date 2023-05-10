@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon #X: the case of Beinecke Ms 387"
+title: "PBP Correct-a-thon Besançon #5: the case of Beinecke Ms 387"
 subtitle: Paris Bible Project MS387
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP][Correct-a-thon Besançon]
