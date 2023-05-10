@@ -10,16 +10,20 @@ comments: false
 
 
 # **PBP Correct-a-thon Besançon: BM Besançon Ms 5**
-<img src="/assets/PBP_MS5_Bibles.png" style="zoom:100%;" />
+<br />
+<img src="/assets/PBP_MS5_Bibles.png" style="zoom:100%;" /> <br />
 *Fig. 1. Ms 5 of the Bibliothèque Municipale de Besançon*
+<br />
 
 ## Introduction
 
 This blogpost was written in the context of the Paris Bible Challenge which took place in Besançon, France in January 2023. 
 
 In this post, we intend to describe the revision process of the automatically generated transcriptions of two text columns in  Besançon Ms 5. These transcriptions were obtained through the application of the Paris Bible Project model for Tranksribus (PBP 2.1) 
-<img src="/assets/PBP_MS5_Bible.png" style="zoom:100%;" />
+<br />
+<img src="/assets/PBP_MS5_Bible.png" style="zoom:100%;" /> <br />
 *Fig. 2. Photo by David Joseph Wrisley*
+<br />
 
 ## Physical description of the BM Besançon Ms 5
 
@@ -30,8 +34,10 @@ The pages we transcribed came from a Bible held by the Besançon Municipal Libra
 
 During the correct-a-thon, we compared the transcription produced by the model against an edition of the [Vulgate](https://www.sacred-texts.com/bib/vul/gen001.htm) of Genesis available online. On the one hand, we noticed that the model was able to identify correctly most of the words, and that the most abundant abbreviations were ꝺ́s (deus), ꝙ (quod), eſt (est), ꝰ (us), fcm̄ (facem), eēt (esset), t́rā (terram), qꝫ (que):
 
- <img src="/assets/PBP_MS5_Visuel.png" style="zoom:100%;" />
+<br />
+ <img src="/assets/PBP_MS5_Visuel.png" style="zoom:100%;" /><br />
  *Fig. 3. Genesis transcription wordcloud of the most common abbreviations*
+ <br />
 
 <br>
 
@@ -41,8 +47,10 @@ In the line of difficulties related to abbreviations, two words showed up for wh
 
 Regarding the generation of text regions, our team encountered a major problem, because the text region for the second column of every page overlapped the first, hence the software was unable to process them. That is the reason why we focus our efforts on revising the first columns of pages 9 and 10, achieving in this way the amount of text required for the correct-a-thon. Also, this inconvenience draws attention to  the importance of double-checking each of the stages in this kind of workflow.
 
-<img src="/assets/PBP_MS5_Trkb.png" style="zoom:100%;" />
+<br />
+<img src="/assets/PBP_MS5_Trkb.png" style="zoom:100%;" /><br />
 *Fig. 4. Transkribus Expert Client*
+<br />
 
 Regarding other issues related to the use of Transkribus, learning to use the Expert Client version expanded our range of action, such as editing text regions, using the export button that allows creating txt, pdf, or xml in TEI format files, function that increases interoperability; as well as extending the above-mentioned virtual keyboard.
 
@@ -51,8 +59,10 @@ Regarding other issues related to the use of Transkribus, learning to use the Ex
 
 An analysis of the text of the manuscript with that of the editions of the Vulgate reveals that the  significant role that abbreviations and special letter forms play in the manuscript text. Many of the medieval Latin abbreviations can be found in our manuscript (Ms. Besançon 5).
 
-<img src="/assets/PBP_MS5_Page_9.png" style="zoom:100%;" />
+<br />
+<img src="/assets/PBP_MS5_Page_9.png" style="zoom:100%;" /><br />
 *Fig. 5. Genesis first column page 9*
+<br />
 
 | Transcription      | Vulgate Bible |
 | ----------- | ----------- |
