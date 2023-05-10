@@ -4,7 +4,7 @@ title: Projects
 permalink: /project/
 ---
 
-What Is Digital Humanities? A History Told by LOLCats
+Computers, the Net, and Digital Humanities.
 
 <br>
 
