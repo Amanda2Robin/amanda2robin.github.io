@@ -26,7 +26,7 @@ The document we worked on is the digitized version of the _Gutenberg Bible_(http
 The printing of this Bible followed smaller works that enabled Gutenberg to gain both printing experience and the courage to embark on such a huge project. This book is considered as a typographical monument due to the black letter types cast for its production, the length of the work and its features. The book has 641 folio leaves and twice that number of pages. It was originally intended to be bound in two volumes (Keogh, 1926). It has neither pagination nor foliation, and is therefore difficult to collate, except by comparing one copy with another. 
 <br>
 
-![Bible](/asset/PBP_BeineckeZZi56_Fig1.jpg)
+![Bible](/assets/PBP_BeineckeZZi56_Fig1.jpg)
 ###### Fig.1. Biblia Latina Leaf with Decorated Initial." Beinecke Rare Book and Manuscript Library Digital Collections. Yale University Library. https://collections.library.yale.edu/catalog/2020598.
 
 <br>
@@ -42,11 +42,11 @@ However, with machine learning there is always the risk of overfitting, which in
 
 >Overfitting occurs when a model's parameters and hyperparameters are optimized to get the best possible performance on the training data. By optimizing for error on the training data and ignoring how a model will perform outside of that sample, a machine learning model will have excellent performance on the training data and poor performance on new data. (Lofgreen, 2019). The following examples are some of the most frequent mistakes made by the automatic transcription in the first two pages of the book of Genesis. <br>
 
-![Mistakes](/asset/PBP_BeineckeZZi56_Fig2.jpg)
+![Mistakes](/assets/PBP_BeineckeZZi56_Fig2.jpg)
 
 Concerning the abbreviations used in the text, the table below details another set of mistakes that were more difficult to classify and correct due to the nature of their representation. There were times during the process where we naturally started to focus more on reading and deciphering the words as humans and we forgot our main task was not to modernise the transcription for contemporary readers, but rather to enable the machine to identify what appeared in the text and create a representation of this. This created a certain degree of debate between us to reach an agreement on how the text should be transcribed, especially when we were had the [modern version of Genesis](http://www.thelatinlibrary.com/bible/genesis.shtml) beside us as we worked and we were limited by the use of special characters which had been pre-loaded into the Transkribus virtual keyboard.
 
-![Mistakes_classify](/asset/PBP_BeineckeZZi56_Fig3.jpg)
+![Mistakes_classify](/assets/PBP_BeineckeZZi56_Fig3.jpg)
 
 
 ### Abbreviations 
@@ -55,7 +55,7 @@ The use of abbreviations seems to have been a system of symbols employed to save
 
 The following table displays how random the abbreviations used can actually be in different lines of text as compared with the _number_ of words in the line. 
 
-![Abbreviations](/asset/PBP_BeineckeZZi56_Fig4.jpg)
+![Abbreviations](/assets/PBP_BeineckeZZi56_Fig4.jpg)
 
 
 
