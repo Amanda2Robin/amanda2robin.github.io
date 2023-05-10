@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon # X: the case of Stanford Ms 23"
+title: "PBP Correct-a-thon Besançon # 4: the case of Stanford Ms 23"
 subtitle:.
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP][Correct-a-thon Besançon]
@@ -26,7 +26,7 @@ We worked with photographs of Stanford ms. 23 manuscript pages taken by David J.
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig1.jpg" style="zoom:40%;" />
+<img src="/assets/PBP_StandfordMs23_Fig1.jpg" style="zoom:30%;" />
 
 **Figure 1: First page of Genesis from the manuscript.**
 
@@ -46,7 +46,7 @@ What did we notice while working on the manuscript using Transkribus?
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig2.jpg" style="zoom:40%;" />
+<img src="/assets/PBP_StandfordMs23_Fig2.jpg" style="zoom:30%;" />
 
 **Figure 2: Example of good text recognition.**
 
@@ -56,7 +56,7 @@ What did we notice while working on the manuscript using Transkribus?
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig3.jpg" style="zoom:40%;" />
+<img src="/assets/PBP_StandfordMs23_Fig3.jpg" style="zoom:30%;" />
 
 **Figure 3: Example of text recognition with Transkribus. The words not highlighted in blue are unrecognized.**
 
@@ -67,7 +67,7 @@ What did we notice while working on the manuscript using Transkribus?
 
 <br>
 
-<img src="/assets/PBP_StandfordMs23_Fig4.jpg" style="zoom:40%;" />
+<img src="/assets/PBP_StandfordMs23_Fig4.jpg" style="zoom:30%;" />
 
 **Figure 4: Example of mistaken recognition with Transkribus.**
 
@@ -160,8 +160,11 @@ During the week-long correct-a-thon our team:
 
 <br>
 
-## **Suggested citation:**
-Arthur, Benedicta, Chemisova, Anna, and Noirot, Marie. (10 February 2023). PBP Correct-a-thon Besançon: Stanford ms. 23. *Paris Bible Project.*
+## Team
+Benedicta Aurthur, Anna Chemisova, Marie Noirot.
+
+## **Suggested citation**
+Arthur, Benedicta, Chemisova, Anna, and Noirot, Marie. (01 June 2023). PBP Correct-a-thon Besançon: Stanford Ms 23. *Paris Bible Project.*
 
 
 
