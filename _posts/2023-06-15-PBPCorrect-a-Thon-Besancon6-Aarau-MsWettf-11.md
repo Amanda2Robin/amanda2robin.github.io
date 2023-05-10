@@ -33,7 +33,7 @@ The first initial of Genesis narrates the creation of the universal in seven cir
 <p>
 <img src="/assets/PBP_MsWettf11_GenesisP1.png" style="zoom:50%;" />
  <br>
- Fig.1: Genesis, page 7
+ Figure 1: Genesis, page 7
  </p>
 
 
@@ -55,17 +55,18 @@ Although the difficulties of reading a medieval text are not far from our resear
 Typically, the resemblance of the letters was tough to determine straightforwardly. Among the lines most difficult to identify were the letters M, T, I, and R. Here are two examples where parsing the [vertical strokes](https://en.wikipedia.org/wiki/Minim_(palaeography)) of the hand was particularly difficult. :
 
 <br>
-
-  
-**Figure 5: The translation of Transkribus HTR-1** :  Quo mortuo timentes fratres  
-<img src=“/assets/PBP_MsWettf11_HTR_1.png” style= “zoom:50%;” />
-
+<p>
+<img src="/assets/PBP_MsWettf11_HTR_1.png" style="zoom:50%;" />
+ <br>
+ Figure 2: The translation of Transkribus HTR-1, Quo mortuo timentes fratres
+ </p>
 
 <br>
-
-
-**Figure 6: The translation of Transkribus HTR-2** : absque parvulis et gregibus atque
-<img src=“/assets/PBP_MsWettf11_HTR_2.png” style= “zoom:%50;” />
+<p>
+<img src="/assets/PBP_MsWettf11_HTR_2.png" style="zoom:50%;" />
+ <br>
+ Figure 3: The translation of Transkribus HTR-2, absque parvulis et gregibus atque
+ </p>
 
 <br>
 While we were attempting to review the text word by word, we noticed that some words that there are slight variations in word order and omissions compared with the edition of the reference [Latin Bible](http://www.thelatinlibrary.com/) Obviously, we ought to keep in mind the Bible written by hand would result in scribal fatigue. In those moments, it could be easy to forget a word or to miss a line. 
@@ -73,10 +74,11 @@ While we were attempting to review the text word by word, we noticed that some w
 Other problems in line order were sometimes caused by Transkribus itself. We observed that in the sentence has been read by the HTR text with a reversal of two lines . As in the figure 7 appears “mamentum” staying under “Duisit aquas”. 
 
 <br>
-
-
-**Figure 7 : Errors** 
-<img src = “/assets/PBP_MsWettf11_Errors.png” style= “zoom:%50;” />
+<p>
+<img src="/assets/PBP_MsWettf11_Errors.png" style="zoom:50%;" />
+ <br>
+ Figure 4: Error
+ </p>
 
 <br>
 
@@ -87,10 +89,11 @@ Other problems in line order were sometimes caused by Transkribus itself. We obs
 We analyzed the transcription of our folio from Genesis in Arrau MsWettF 11 to get a general idea of the most frequent abbreviations.. Our corpus has been formed with 335 words and 277 unique word forms. The most frequent words in the corpus are eſt (8); in (7); cū (6); me (5); ut (4) as shown in the [word cloud](https://voyant-tools.org/?corpus=28f3f522f5807628c4865d3c63b82bd6&query=%22e%C5%BFt%20eo%C5%BF%22~5#)  below:
 
 <br>
-
-
-**Figure 8 : Word frequency of the first folio of Genesis, Aarau MsWettF 11 **
- <img src=“/assets/PBP_MS5_Visuel.png” style= “zoom:%50;” />
+ <p>
+<img src="/assets/PBP_MS5_Visuel.png" style="zoom:50%;" />
+ <br>
+ Figure 5: Word frequency of the first folio of Genesis, Aarau MsWettF 11
+ </p>
 
 <br>
 
