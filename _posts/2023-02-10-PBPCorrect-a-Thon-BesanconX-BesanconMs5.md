@@ -27,7 +27,7 @@ In this post, we intend to describe the revision process of the automatically ge
 
 <br>
 <p>
-<img src="/assets/PBP_MS5_Bible.png" style="zoom:100%;" />
+<img src="/assets/PBP_MS5_Bible.png" style="zoom:100%;" /> 
 <br>
 Fig. 2. Photo by David Joseph Wrisley
   </p>
