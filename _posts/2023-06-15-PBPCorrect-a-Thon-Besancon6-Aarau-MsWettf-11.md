@@ -58,7 +58,8 @@ Typically, the resemblance of the letters was tough to determine straightforward
 
   
 **Figure 5: The translation of Transkribus HTR-1** :  Quo mortuo timentes fratres  
-<img src=“/assets/PBP_MsWettf11_HTR_1.png” style= “zoom:%50;” />
+<img src=“/assets/PBP_MsWettf11_HTR_1.png” style= “zoom:50%;” />
+
 
 <br>
 
