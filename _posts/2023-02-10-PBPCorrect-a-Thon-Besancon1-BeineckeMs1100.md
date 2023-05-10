@@ -26,19 +26,19 @@ Regarding handwriting, one of the main differences we observed was in the styliz
 
 ![Figure 1: Example of long letters at the bottom line of __ in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure1.png)
 <br>
-© Fig.1: Example of long letters at the bottom line of 7r in the Beinecke MS 1100 manuscript. 
+Fig.1: Example of long letters at the bottom line of 7r in the Beinecke MS 1100 manuscript. 
 
 <br>
 
 ![Figure 2: Example of “regular” letters at the bottom line of 6v in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure2.png)
 <br>
-© Fig. 2: Example of “regular” letters at the bottom line of 6v, the Beinecke MS 1100 manuscript. 
+Fig. 2: Example of “regular” letters at the bottom line of 6v, the Beinecke MS 1100 manuscript. 
 
 <br>
 
 ![Figure 3: Example of long letters at the bottom line of 7v in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure3.png)
 <br>
-© Fig. 3: Example of long letters at the bottom line of 7v, The Beinecke MS 1100.
+Fig. 3: Example of long letters at the bottom line of 7v, The Beinecke MS 1100.
 
 <br>
 
