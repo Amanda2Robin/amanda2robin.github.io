@@ -30,11 +30,11 @@ The Paris bible is a kind of medieval Latin Bible that was diffused throughout E
 The first initial of Genesis narrates the creation of the universal in seven circles. The story of the creation of life, animals, and human beings are found in each circle
 
 <br>
-
 <p>
-**Figure 1 : Genesis, page 7** <br>
-<img src = “/assets/PBP_MsWettf11_GenesisP1.png” style= “zoom:%50;” />
-</p>
+<img src="/assets/PBP_MsWettf11_GenesisP1.png" style="zoom:50%;" />
+ <br>
+ Fig.1: Genesis, page 7
+ </p>
 
 
 ## **Transkribus**
