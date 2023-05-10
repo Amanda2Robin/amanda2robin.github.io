@@ -11,10 +11,12 @@ comments: false
 
 # **PBP Correct-a-thon Besançon: BM Besançon Ms 5**
 <br>
+<p>
 <img src="/assets/PBP_MS5_Bibles.png" style="zoom:100%;" /> 
 <br>
 Fig. 1. Ms 5 of the Bibliothèque Municipale de Besançon
-<br>
+</p>
+  <br>
 <br>
 
 ## Introduction
