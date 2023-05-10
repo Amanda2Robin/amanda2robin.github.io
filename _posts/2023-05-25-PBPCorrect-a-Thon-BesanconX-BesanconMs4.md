@@ -17,7 +17,7 @@ This blogpost was written in the context of the Paris Bible Challenge which took
 The Paris Bible Project (PBP) was an immersive project which took place over a week-long period at the Université de Franche-Comté in January 2023. We worked on Manuscript 4 (MS4) from Bibliothèque Municipale de Besançon, a Bible thought to be written by a Franciscan monk in the middle of the 13th century.  
 
 <p>
-![bible](/assets/PBP_Bes4_bible1.png)
+<img src="/assets/PBP_Bes4_bible1.png" style="zoom:100%;" />
  <br>
  Fig.1: Besançon Ms 4
  </p>
@@ -29,7 +29,7 @@ Encountering a handwritten bible transcribed by the AI was a new experience for 
 In the beginning we were confused why some 'i' letters had a mark. After reading half of the page, we realized that the scribe used 'i'  with a mark when the word contained "u", 'm", or 'n'. An obvious attempt to help the reader distinguish between letters - confusing to our untrained and print-obsessed eyes. The AI wasn't effective in identifying these characters either, leading to numerous errors in words with these letters.
 
 <p>
-![recognizingdiferrentletters](assets/markingi.png)
+<img src="/assets/assets/markingi.png" style="zoom:100%;" />
  <br>
  Fig.2: Recognizing different letters
  </p>
@@ -51,7 +51,7 @@ Conducting this work required us to utilise an [online text](https://www.sacred-
 The easily readable handwriting of the scribe made our analysis more efficient and allowed us to comprehend the text with greater clarity. We still had difficulties with the abbreviations inside the text, not only because of our unfamiliarity with paleography, but because of the different ways in which the same word could be abbreviated.
 
 <p>
-![abbreviation](/assets/PBP_Bes4_abbre.jpg)
+<img src="/assets/PBP_Bes4_abbre.jpg" style="zoom:100%;" />
  <br>
  Fig.3: Two different abbreviations of "præesset" in the same line: preēēt and p̄eēt.(Fol.5)
  </p>
@@ -59,7 +59,7 @@ The easily readable handwriting of the scribe made our analysis more efficient a
 One of the things that caught our attention while transcribing were the symbolic variants, since sometimes they did not seem to correspond to the symbols in the guidelines that had been provided to us. In the following picture, you can see two abbreviations for *que* and *us*. We had to transcribe both as '3', while the scribe was making a clear distinction between two (Fol.5): 
 
 <p>
-![queandusdifference](/assets/PBP_Bes4_que.jpg)
+<img src="/assets/PBP_Bes4_que.jpg" style="zoom:100%;" />
  <br>
  Fig.4: Two abbreviations for *que* and *us*
  </p>
@@ -67,7 +67,7 @@ One of the things that caught our attention while transcribing were the symbolic
 Our biggest complication was with the macrons, because many times they did not correspond to what the guidelines indicated that they should look like and the different variants of the symbols did not make it easy to decide what to add. That is why specifically with the macrons we decided to add the symbol as it was present in the text without considering the meanings of the signs as something primordial. This is because, after all, the PBP has a lot to do with the different styles that scribes performed in different locations, so it is difficult to follow a completely standardised model. So there are many variations depending on the manuscripts. 
 
 <p>
-![macrons](/assets/PBP_Bes4_macrons.png)
+<img src="/assets/PBP_Bes4_macrons.png" style="zoom:100%;" />
  <br>
  Fig.5: Different macrons we encountered
  </p>
@@ -75,7 +75,7 @@ Our biggest complication was with the macrons, because many times they did not c
 What was fascinating about this manuscript was observing the scribe's efforts to present the content in a practical manner, as evidenced by the use of Roman numerals for certain words as we can see in the following image (Fol.5-6):
 
 <p>
-![numbers](/assets/PBP_Bes4_numbers.jpeg)
+<img src="/assets/PBP_Bes4_numbers.jpeg" style="zoom:100%;" />
  <br>
  Fig.6: Roman numeral usage
  </p>
@@ -97,7 +97,7 @@ Apart from the different abbreviations or marks, one of our challenges was the f
 It was challenging to correct the transcription when a word disappears to only appear in the following line or to not appear at all! From time to time, the scribe missed some lines, which were later added to the marginalia by another, mysterious hand. We have decided the hand does not belong to the same scribe as the handwriting is different (Fol.6): 
 
 <p>
-![missingpart](/assets/PBP_Bes4_script.png)   ![correction](/assets/PBP_Bes4_hand.png) 
+<img src="/assets/PBP_Bes4_script.png" style="zoom:100%;" />   <img src="/assets/PBP_Bes4_hand.png" style="zoom:100%;" /> 
  <br>
 Fig.7&8: Different hand examples
  </p>
@@ -105,7 +105,7 @@ Fig.7&8: Different hand examples
 Normally "Multiplicabo ærumnas tuas, et conceptus tuos" should appear right after "dixit." Later, the mysterious hand pointed out the mistake by putting a *+* next to the line and they wrote the missing part to the bottom marginalia. Sometimes, they correct it right next to the line(Fol.6):
  
  <p>
- ![anothercorrection](/assets/PBP_Bes4_myshand.jpeg)
+ <img src="/assets/PBP_Bes4_myshand.jpeg" style="zoom:100%;" />
  <br>
  Fig.9: Corrections
  </p>
@@ -122,7 +122,7 @@ The scribe's mistakes and the appearance of the mysterious hand created a differ
 ## The Physical Object 
 
 <p>
-![ThePhysicalObject](/assets/PBP_Bes4_bible2.png)
+<img src="/assets/PBP_Bes4_bible2.png" style="zoom:100%;" />
  <br>
 Fig.10: Besançon Ms 4, last page of Genesis and first page of Exodus
  </p>
