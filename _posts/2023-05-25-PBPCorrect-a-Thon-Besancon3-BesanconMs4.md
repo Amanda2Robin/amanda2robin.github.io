@@ -116,9 +116,6 @@ It was a challenge to think about how to direct AI to confront these issues whil
 
 The scribe's mistakes and the appearance of the mysterious hand created a different connection between us and the object itself as we come to humbling realizations: we were just one of many who looked at this book from a critical perspective and we kept ignoring human error while we were carefully searching for AI's mistakes. 
 
-
-•	
-
 ## The Physical Object 
 
 <p>
