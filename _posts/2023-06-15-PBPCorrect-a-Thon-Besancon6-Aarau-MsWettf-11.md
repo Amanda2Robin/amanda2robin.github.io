@@ -3,7 +3,7 @@ layout: post
 title: "PBP Correct-a-thon Besançon #6: the case of Aargauer Kantonsbibliothek, MsWettF 11"
 subtitle:  Discovering Paris Bibles with Digital Humanities
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP] [Correct-a-thon Besançon]
+tags: [Correct-a-thon]
 comments: false
 ---
 <base target="_blank">

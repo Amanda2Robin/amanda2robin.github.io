@@ -3,12 +3,12 @@ layout: post
 title: "PBP Correct-a-thon Besançon #1: the case of Beinecke MS 1100"
 subtitle: Scribal Differences and Abbreviation Ambiguities in Beinecke MS 1100 
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP][Correct-a-thon Besançon]
+tags: [Correct-a-thon , Beinecke , overfitting]
 comments: false
 ---
 <base target="_blank">
 
-# PBP Correct-a-Thon Besançon: Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100 
+# Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100 
 
 <br>
 

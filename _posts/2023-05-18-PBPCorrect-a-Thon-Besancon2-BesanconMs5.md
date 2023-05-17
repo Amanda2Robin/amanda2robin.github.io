@@ -3,7 +3,7 @@ layout: post
 title: "PBP Correct-a-thon Besançon #2: the case of BM Besançon Ms 5"
 subtitle: HTR for Paris Bibles at Besançon
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP][Correct-a-thon Besançon]
+tags: [Correct-a-thon , Besançon]
 comments: false
 ---
 <base target="_blank">

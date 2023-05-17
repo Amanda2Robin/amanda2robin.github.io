@@ -3,7 +3,7 @@ layout: post
 title: "PBP Correct-a-thon Besançon #7: the case of Beinecke ZZi 56"
 subtitle: Recurrent mistakes when transcribing Beinecke ZZi 56 with AI.
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP][Correct-a-thon Besançon]
+tags: [Correct-a-thon , Beinecke , overfitting]
 comments: false
 
 ---
