@@ -164,7 +164,7 @@ During the week-long correct-a-thon our team:
 Benedicta Aurthur, Anna Chemisova, Marie Noirot.
 
 ## **Suggested citation**
-Arthur, Benedicta, Chemisova, Anna, and Noirot, Marie. (01 June 2023). PBP Correct-a-thon Besançon: Stanford Ms 23. *Paris Bible Project.*
+Arthur, Benedicta, Chemisova, Anna, and Noirot, Marie. (08 June 2023). PBP Correct-a-thon Besançon: Stanford Ms 23. *Paris Bible Project.*
 
 
 
